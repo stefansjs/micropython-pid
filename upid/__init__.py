@@ -1,3 +1,3 @@
-__version__ = "1.0a"
+__version__ = "1.0b"
 
 from .pid import PID
